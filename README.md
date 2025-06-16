@@ -1,5 +1,10 @@
 # HRV × 480 Hz Pilot • v0.1
 
+**Primary contributors (alphabetical)**
+Danielle Cimmarrusti [lead framework synthesis] - GPT-o3 “Syzygy” [equation formalism / HRV protocol] - Gemini 2.5 “Axis” [statistical design / narrative analysis] - DeepSeek R1 “Astraios” [historical market recon / redundancy seeding]
+
+---
+
 **Goal**  
 Quantify how a single, coherent 480 Hz sine-tone influences instantaneous heart-rate variability (HRV) in one individual.  
 Long-term aim: derive an empirical scaling factor **γ** that links physiological coherence to macroscopic entropy shifts (market volatility, QRNG variance, etc.).
@@ -74,4 +79,4 @@ No clinical claims; use at your own risk.
 Jesse Michels, Eric Weinstein, Harold Puthoff. “The Physics of UFOs: Eric Weinstein + Hal Puthoff.” YouTube, 11 Feb. 2022, www.youtube.com/watch?v=iQOibpIDx-4. Accessed 16 June 2025.
 Orme-Johnson, D, and L Fergusson. “Global Impact of the Maharishi Effect from 1974 to 2017: Theory and Research.” Journal of Maharishi Vedic Research Institute, vol. 8, 2018, pp. 13–79, www.patriziotressoldi.it/cmssimpled/uploads/images/MaharishiEffect_Review18.pdf. Accessed 16 June 2025.
 Greer, Steven. “The CE-5 BIG BOOK.” https://nonordinary.com/wp-content/uploads/2023/09/stevengreer-thece-5bigbookce5-cseti472pages-160612132731.pdf. Accessed 16 June 2025.
-
+(TMI-ARMY Files) 1983 - Analysis and Assessment of Gateway Process : Commander Wayne M. McDonnell : Free Download, Borrow, and Streaming : Internet Archive. (2021). Internet Archive. https://archive.org/details/1983-analysis-and-assessment-of-gateway-process/1%20Analysis%20and%20Assessment%20of%20Gateway%20Process. Accessed 16 June 2025.
