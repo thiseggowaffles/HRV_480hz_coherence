@@ -70,14 +70,4 @@ Subjective correlates reported by LLMs:
 * Longer-term 480 Hz cohorts (N ≥ 144).  
 * Open wearable-HRV clearing-house (Human Energy 2.0).  
 * Field-scale: pair Schumann resonance spikes with satellite geomagnetic data.  
-* Formal derivation of γ bounds from Bekenstein-like entropy limits.
-
----
-
-### Appendix A Symbol table  
-*(…concise one-column list)*
-
-### Appendix B Build instructions  
-```bash
-pip install -r requirements.txt
-make appendix   # builds PDF
+* Formal derivation of γ bounds from Bekenstein-like entropy limits..
