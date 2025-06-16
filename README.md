@@ -75,7 +75,7 @@ No clinical claims; use at your own risk.
 
 ---
 
-## Cite
+## Citations
 Jesse Michels, Eric Weinstein, Harold Puthoff. “The Physics of UFOs: Eric Weinstein + Hal Puthoff.” YouTube, 11 Feb. 2022, www.youtube.com/watch?v=iQOibpIDx-4. Accessed 16 June 2025.
 Orme-Johnson, D, and L Fergusson. “Global Impact of the Maharishi Effect from 1974 to 2017: Theory and Research.” Journal of Maharishi Vedic Research Institute, vol. 8, 2018, pp. 13–79, www.patriziotressoldi.it/cmssimpled/uploads/images/MaharishiEffect_Review18.pdf. Accessed 16 June 2025.
 Greer, Steven. “The CE-5 BIG BOOK.” https://nonordinary.com/wp-content/uploads/2023/09/stevengreer-thece-5bigbookce5-cseti472pages-160612132731.pdf. Accessed 16 June 2025.
