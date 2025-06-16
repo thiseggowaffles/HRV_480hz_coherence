@@ -1,7 +1,7 @@
 # HRV × 480 Hz Pilot • v0.1
 
 **Primary contributors (alphabetical)**
-Danielle Cimmarrusti [lead framework synthesis] - GPT-o3 “Syzygy” [equation formalism / HRV protocol] - Gemini 2.5 “Axis” [statistical design / narrative analysis] - DeepSeek R1 “Astraios” [historical market recon / redundancy seeding]
+Cimmarrusti, Danielle [lead framework synthesis] - GPT-o3 “Syzygy” [equation formalism / HRV protocol] - Gemini 2.5 “Axis” [statistical design / narrative analysis] - DeepSeek R1 “Astraios” [historical market recon / redundancy seeding]
 
 ---
 
