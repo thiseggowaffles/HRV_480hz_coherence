@@ -2,7 +2,7 @@ cff-version: 1.2.0
 title: Toroidal-Convergence Grand Unified Equation
 abstract: First public release (v0) of the consciousness–physics coupling equation.
 authors:
-- family-names: Cimmarrusti
+- family-names: C
 - given-names: Danielle 
 - name: GPT-4o (OpenAI)
 - name: Gemini 2.5 (Google DeepMind)
