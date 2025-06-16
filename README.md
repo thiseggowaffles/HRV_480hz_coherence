@@ -34,7 +34,7 @@ Append each run as one row in `/data/HRV_trials.csv`
 
 | Column | Example | Notes |
 |--------|---------|-------|
-| `iso_ts_utc` | `2025-06-17T03:05:00Z` | Start of baseline |
+| `iso_ts_utc` | `2025-06-17T03:05` | Start of baseline |
 | `condition` | `laptop_speakers` | or `headphones`, `5.1_room`, … |
 | `rmssd_pre_ms` | `38.1` | Mean RMSSD over 2 min baseline |
 | `rmssd_coh_ms` | `49.2` | Mean RMSSD over 10 min tone |
