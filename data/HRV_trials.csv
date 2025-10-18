@@ -2,7 +2,8 @@ iso_ts_utc,carrier,tone,hearing protection,rmssd_pre_ms,rmssd_coh_ms,delta_pct,n
 2025-06-16T03:51,laptop speakers,480 Hz,no,31,40,29.03225806,first run pilot with no fadeout
 2025-06-17T03:15,laptop speakers,480 Hz,no,21,27,28.57142857,first run with 15 sec fadeout
 2025-06-17T03:32,headphones,480 Hz,no,24,26,8.333333333,first run with headphones with 2 min gap from previous run
-2025-06-18T04:22,laptop speakers,639 Hz,no,25,32,28,first run with fadeout (639Hz)
-
-
-
+2025-06-18T04:22,laptop speakers,639 Hz,no,25,32,28,first run with 639Hz
+2025-10-18T16:52,laptop speakers,white noise,yes,41,28,-31.70731707,first run with white noise
+2025-10-18T17:20,laptop speakers,480 Hz,yes,16,19,18.75,first run 480 Hz with hearing protection
+2025-10-18T17:43,laptop speakers,639 Hz,yes,14,20,42.85714286,first run 639 Hz with hearing protection
+2025-10-18T18:01,laptop speakers,880 Hz,yes,17,23,35.29411765,first run 880 Hz with hearing protection
