@@ -24,12 +24,12 @@ Long-term aim: derive an empirical scaling factor **γ** that links physiologica
 | Step | Duration | Action |
 |------|----------|--------|
 | 1 | 2 min | **Baseline** – sit quietly, eyes closed. |
-| 2 | 10 min | **Coherence** – play a pure 480 Hz sine (mono/stereo) while breathing 5 s in / 5 s out and cultivating a loving, grateful focus. (Recommend 15 second fadeout at end)|
+| 2 | 10 min | **Coherence** – play a pure 639 Hz sine (mono/stereo) while breathing 5 s in / 5 s out and cultivating a loving, grateful focus. (Recommend 15 second fadeout at end)|
 | 3 | 2 min | **Cool-down** – stop audio, remain seated. |
 
 **Equipment**  
 - Recording → any wrist device that logs RMSSD every ≤5 s (Apple Watch + Heart Analyzer, Garmin Relax, etc.) or camera-flash-based sensory reading such Welltory at completion of each step.
-- Audio → laptop speakers *or* over-ear headphones (*compare conditions later*). Tone generated in Audacity > Generate > Tone > 480 Hz, 44.1 kHz WAV.
+- Audio → laptop speakers *or* over-ear headphones (*compare conditions later*). Tone generated in Audacity > Generate > Tone > 639 Hz, 44.1 kHz WAV.
 
 ---
 
@@ -53,10 +53,9 @@ Append each run as one row in `/data/HRV_trials.csv`
 | Milestone | ETA | Status |
 |-----------|-----|--------|
 | **v0.1** – seed repo, 1 pilot run | Complete | ✅ |
-| Replicate laptop run (n = 3) | +1 days | ⬜ |
-| Headphone & 5.1 trials | +3 days | ⬜ |
-| Draft γ-fit notebook (`scripts/fit_gamma.py`) | +1 week | ⬜ |
-| External replication call | Post-v0.2 | ⬜ |
+| Replicate laptop run (n = 3) | Complete | ✅ |
+| Headphone trials | Complete | ✅ |
+| External replication call | Complete | ✅ |
 
 ---
 
