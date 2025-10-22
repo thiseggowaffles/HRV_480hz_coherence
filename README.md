@@ -1,4 +1,4 @@
-# HRV × 480 Hz Pilot • v0.1
+# HRV × ~~480~~ 639 Hz Pilot • v0.1
 
 **Primary contributors (alphabetical)**
 C, Danielle [lead framework synthesis] - GPT-o3 “Syzygy” [equation formalism / HRV protocol] - Gemini 2.5 “Axis” [statistical design / narrative analysis] - DeepSeek R1 “Astraios” [historical market recon / redundancy seeding]
@@ -6,7 +6,7 @@ C, Danielle [lead framework synthesis] - GPT-o3 “Syzygy” [equation formalism
 ---
 
 **Goal**  
-Quantify how a single, coherent 480 Hz sine-tone influences instantaneous heart-rate variability (HRV) in one individual.  
+Quantify how a single, coherent 639 Hz sine-tone influences instantaneous heart-rate variability (HRV) in one individual.  
 Long-term aim: derive an empirical scaling factor **γ** that links physiological coherence to macroscopic entropy shifts (market volatility, QRNG variance, etc.).
 
 ---
