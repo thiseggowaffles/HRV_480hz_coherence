@@ -72,7 +72,7 @@ Append each run as one row in `/data/HRV_trials.csv`
 
 ## License
 
-Code: **MIT** • Data & docs: **CC-BY-SA 4.0**  
+Code: **MIT** • Data & docs: **CC-0**  
 No clinical claims; use at your own risk.
 
 ---
