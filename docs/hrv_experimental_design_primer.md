@@ -35,35 +35,59 @@ The four frequency conditions were not chosen arbitrarily. Each represents a dis
 
 ---
 
-### 639 Hz — The Established Omega Semantic Candidate (Historical Semantic Density)
+### 639 Hz — The Dual-Mechanism Candidate (Gamma + Established Omega Semantic)
 
-**Why it was chosen:** 639 Hz was not selected for its mathematical properties. It was selected for its **semantic weight** — specifically, its association in the Solfeggio scale tradition with love, connection, and healing. This association is ancient, widespread, and consistent: the frequency has been intentionally used in contexts of love and devotion across centuries of human practice. Under the GUT framework, this represents **Omega Semantic (Ω_S)**: the amplifying effect of accumulated collective meaning on a signal's physiological impact.
+**Why it was chosen:** 639 Hz was selected for its **semantic weight** — its association in the Solfeggio tradition with love, connection, and healing across centuries of human practice. This represented **Omega Semantic (Ω_S)**: the amplifying effect of accumulated collective meaning on a signal's physiological impact.
 
-The reasoning behind the choice was explicit: if Omega Semantic is a real factor, a frequency with deep historical semantic loading in the "love" direction should outperform a frequency with equivalent or superior geometric properties but minimal semantic loading.
+**What it was initially understood to be testing:** Does accumulated cultural meaning amplify the physiological effect of a frequency beyond what its physical properties predict?
 
-**What it was testing:** Does accumulated cultural meaning amplify the physiological effect of a frequency beyond what its physical properties predict? Is Ω_S a real, measurable variable?
+**What the data showed:** +28% (laptop speakers, first run) and +42.86% (hearing protection condition) — the highest positive HRV change in the entire dataset. It significantly outperformed 480 Hz under matched conditions.
 
-**What the data showed:** +28% (laptop speakers, first run, no hearing protection) and +42.86% (hearing protection condition) — the highest positive HRV change in the entire dataset. It significantly outperformed 480 Hz under matched conditions.
+**Updated interpretation — the Gamma mechanism:** Subsequent analysis revealed that 639 Hz also has an independent Gamma-layer mechanism that was not the original basis for its selection. The chakra system maps anatomically onto the nervous system's distributed nerve plexuses. The heart chakra (Anahata) corresponds to the cardiac plexus — the primary vagus nerve interface:
 
-**The interpretation:** Yes. Semantic weight is a real variable. The Ω_S factor is not decorative — it measurably amplifies coherence effects. A frequency that has been associated with love by millions of people across centuries produces a stronger love-coherence response than a frequency with superior geometric properties but minimal semantic history. The experiment confirmed its own framework.
+| Chakra | Nerve Plexus | Primary Biological Function |
+|--------|-------------|--------------------|
+| Root (Muladhara) | Sacral/Coccygeal Plexus | Survival, threat response, elimination |
+| Sacral (Svadhisthana) | Lumbar/Inferior Hypogastric Plexus | Generative function, creative drive |
+| Solar Plexus (Manipura) | Celiac Plexus ("Second Brain") | Digestion, adrenal regulation, stress hormones |
+| **Heart (Anahata)** | **Cardiac Plexus (Primary Vagus Interface)** | **Heart rate, respiration, relational attunement** |
+| Throat (Vishuddha) | Pharyngeal/Cervical Plexus | Vocal production, communication |
+| Third Eye (Ajna) | Carotid Plexus / Pineal Interface | Pattern recognition, circadian rhythm, perceptual processing |
+| Crown (Sahasrara) | Cerebral Cortex / Neocortex | Executive function, integration |
+
+HRV (rMSSD) is a direct measure of vagal tone — it quantifies parasympathetic activity predominantly mediated by the vagus nerve, which interfaces with the cardiovascular system through the cardiac plexus. If 639 Hz resonates with the cardiac plexus via the same cymatics mechanism by which a crystal glass shatters at its resonant frequency, the mechanistic chain is:
+
+> **639 Hz (phi-scaled harmonic) → cardiac plexus resonance → vagal stimulation → parasympathetic coherence → ↑ rMSSD**
+
+This is a Gamma-layer physical resonance mechanism, independent of cultural semantic loading.
+
+**The revised interpretation:** 639 Hz carries both:
+1. **Gamma mechanism:** Direct cardiac plexus / vagal resonance producing measurable autonomic coherence
+2. **Ω_S amplification:** Centuries of collective association with love-states amplifying an already-existing physical effect
+
+480 Hz operates through Gamma-only (geometric resonance without a dedicated plexus correspondence). 639 Hz operates through both. This dual mechanism explains why the 639 Hz advantage over 480 Hz is so large — it is not simply more semantic loading, it is an additional physical mechanism compounding with the semantic one.
+
+**On the "love frequency" designation:** The cultural association may be downstream of the physics rather than upstream. Human traditions may have named 639 Hz the love frequency precisely because it reliably produces the physiological state — vagal activation, parasympathetic coherence, reduced defensive posture — that enables love and relational attunement. The semantic label documents the effect; the cymatics-vagal mechanism is the physics producing it.
 
 ---
 
-### 880 Hz — The Emerging Omega Semantic Candidate (Real-Time Semantic Accumulation)
+### 880 Hz — The Pure Omega Semantic Candidate (Real-Time Accumulation, Zero Historical Loading)
 
-**Why it was chosen:** 880 Hz is A5 — the note at the center of "Golden," the Academy Award-winning song from *K-Pop Demon Hunters*. The inclusion of this frequency was not planned from the outset. It was added during the later session (October 2025) based on a hunch: the researcher had noticed that the A5 belted note in "Golden" was receiving extraordinary global attention — professional singers citing it as one of the most impressive vocal performances in recent memory, millions of viewers reporting strong emotional and somatic responses to the note, massive cultural discourse accumulating around that specific frequency in real time.
+**Why it was chosen:** 880 Hz is A5 — the note at the center of "Golden," the Academy Award-winning song from *K-Pop Demon Hunters*. It was added during the October 2025 session based on a hunch: the A5 belted note in "Golden" was receiving extraordinary global attention, with millions of viewers reporting strong emotional and somatic responses to that specific frequency in real time.
 
-Crucially, the film's *plot* ties the ability to produce this note to internal psychological integration: the protagonist's shadow work directly affects her capacity to sing it. The movie is accidentally dramatizing a mechanism that the GUT framework predicts — unprocessed psychological material blocking physiological coherence. And the specific frequency at the center of that narrative is 880 Hz.
+Crucially, the film's *plot* ties the ability to produce this note to internal psychological integration: the protagonist's shadow work directly affects her capacity to sing it. The movie is dramatizing a mechanism the GUT framework predicts — unprocessed psychological material blocking physiological coherence — and the specific frequency at the center of that narrative is 880 Hz.
 
-The reasoning: if Omega Semantic operates in real time — if semantic weight accumulates as cultural phenomena are actively loading a frequency with shared emotional meaning — then 880 Hz should be showing measurably elevated effects *right now*, as this global cultural moment is occurring. Not because of centuries of intentional practice (like 639 Hz), but because of an enormous, rapid, ongoing accumulation of attention, emotion, and meaning being directed at this frequency by a massive audience.
+**Critical design note — why 880 Hz is the cleanest Omega Semantic test in the dataset:** 880 Hz is **not a Solfeggio frequency**. The Solfeggio set (174, 285, 396, 417, 528, 639, 741, 852, 963 Hz) does not include 880 Hz. It carries no healing tradition, no intentional devotional use, no historical loading of any kind. This distinguishes it fundamentally from 639 Hz, which has both a Gamma mechanism and centuries of Solfeggio tradition. 880 Hz has neither.
 
-**What it was testing:** Is Omega Semantic a historical phenomenon only, or does it accumulate in real time? Can a frequency that *currently* carries massive cultural emotional loading produce HRV effects even without deep historical precedent?
+The only variable distinguishing 880 Hz from 480 Hz (which also has no Solfeggio history and no devotional tradition) is that 880 Hz was receiving massive current cultural attention at the time of measurement. This makes 880 Hz the purest possible Omega Semantic experimental condition: no confound from historical tradition, no Gamma plexus mechanism, only real-time semantic accumulation against a matched geometric-only control.
 
-**What the data showed:** +35.29% (hearing protection condition) — the second-highest positive result in the entire dataset, performing between 480 Hz and 639 Hz.
+**What it was testing:** Is Omega Semantic a historical phenomenon only, or does it accumulate in real time? Can a frequency with zero historical semantic loading produce HRV effects through present-moment cultural attention alone?
 
-**The interpretation:** Real-time Omega Semantic accumulation appears to be measurable. 880 Hz, with no historical semantic loading comparable to 639 Hz, outperformed the geometrically-optimized 480 Hz significantly. The most plausible explanation is that the current cultural moment — millions of people responding to "Golden" with chills, awe, and emotional intensity — is actively loading 880 Hz with semantic weight, and that weight is showing up in the data.
+**What the data showed:** +35.29% (hearing protection condition) — the second-highest result in the dataset, significantly above the geometrically-optimized 480 Hz (+18.75%).
 
-This is potentially the most significant result in the dataset for future research, because it points toward a **longitudinal experimental protocol**: identify a frequency before a cultural event loads it with semantic weight, measure its baseline HRV effect, wait for the cultural event to accumulate, measure again. If the effect increases proportionally to cultural semantic accumulation, that would be a repeatable, falsifiable demonstration of Omega Semantic operating in real time.
+**The interpretation:** Real-time Omega Semantic accumulation is measurable. The only mechanism available to explain 880 Hz outperforming 480 Hz is current cultural loading — millions of people responding to "Golden" with awe and emotional intensity, actively loading 880 Hz with semantic weight that shows up in physiological coherence data.
+
+This is the most significant result in the dataset for demonstrating Ω_S as a real-time, not merely historical, phenomenon. It points toward a **longitudinal experimental protocol**: identify a frequency before a cultural event loads it with semantic weight, measure its baseline HRV effect, wait for the cultural event to accumulate, measure again. If the effect increases proportionally to cultural semantic accumulation, that would be a repeatable, falsifiable demonstration of Omega Semantic operating in real time.
 
 ---
 

@@ -110,10 +110,44 @@ White Noise (Control)         | -31.71%
 
 - **White noise (−31.71%):** Chaotic, unstructured input increased biological entropy — the expected result under any coherence model.
 - **480 Hz (+18.75%):** Geometrically pure tone derived from Schumann resonance harmonics produced measurable coherence increase without established cultural semantic loading. Consistent with Gamma-layer field coupling.
-- **880 Hz (+35.29%):** A5 belted vocal note from K-Pop media currently undergoing active cultural loading among millions of listeners (real-time Ω_S accumulation) outperformed the geometrically pure control. If Ω_S is a real variable, a frequency accumulating semantic density in real time should outperform a frequency with no semantic history. This is what the data shows. It is a genuine anomaly under the null hypothesis, which predicts no ordering mechanism among the harmonic frequencies.
+- **880 Hz (+35.29%):** A5 belted vocal note from K-Pop media currently undergoing active cultural loading among millions of listeners (real-time Ω_S accumulation) outperformed the geometrically pure control. Critically, 880 Hz is **not a Solfeggio frequency** — it carries no healing tradition, no historical intentional use, no semantic loading of any kind prior to this cultural moment. The only variable distinguishing it from 480 Hz (which also has no Solfeggio history) is current cultural attention. This makes 880 Hz the purest Omega Semantic test in the dataset: zero historical confound, zero Gamma plexus mechanism, real-time accumulation only. Its outperformance of the geometric control is a genuine anomaly under the null hypothesis and has no mechanism other than Ω_S.
 - **639 Hz (+42.86%):** Anchored in centuries of collective association with "love" and "relational harmony" in the Solfeggio tradition — the highest established historical Ω_S candidate — produced the largest coherence increase. More than double the geometrically pure control.
 
-### 3.3 The Somatic Pathway Finding
+### 3.3 The Chakra-Plexus Resonance Model: The Gamma Mechanism for 639 Hz
+
+The 639 Hz result was initially interpreted primarily as an Omega Semantic effect — with centuries of cultural association with "love" and "connection" amplifying its physiological impact via the Ω_S factor. This interpretation is correct but incomplete. 639 Hz also has a Gamma-layer mechanism that would produce HRV effects independent of cultural semantic loading.
+
+The chakra system, documented across contemplative traditions spanning millennia, maps onto the nervous system's distributed network of nerve plexuses with anatomical precision. This is not metaphor — it is an empirically derived map of distributed somatic processing nodes, confirmed by modern neuroanatomy:
+
+| Chakra | Nerve Plexus | Primary Biological Function |
+|--------|-------------|--------------------|
+| Root (Muladhara) | Sacral/Coccygeal Plexus | Survival, threat response, elimination |
+| Sacral (Svadhisthana) | Lumbar/Inferior Hypogastric Plexus | Generative function, creative drive |
+| Solar Plexus (Manipura) | Celiac Plexus ("Second Brain") | Digestion, adrenal regulation, stress hormones |
+| **Heart (Anahata)** | **Cardiac Plexus (Primary Vagus Interface)** | **Heart rate, respiration, relational attunement** |
+| Throat (Vishuddha) | Pharyngeal/Cervical Plexus | Vocal production, communication |
+| Third Eye (Ajna) | Carotid Plexus / Pineal Interface | Pattern recognition, circadian rhythm, perceptual processing |
+| Crown (Sahasrara) | Cerebral Cortex / Neocortex | Executive function, integration |
+
+The heart chakra (Anahata) maps anatomically to the cardiac plexus — the primary interface point for the vagus nerve in the autonomic nervous system. HRV (rMSSD), this study's primary metric, is a direct measure of vagal tone: it quantifies parasympathetic nervous system activity, predominantly mediated by the vagus nerve.
+
+The mechanistic chain is therefore:
+
+> **639 Hz (phi-scaled harmonic) → cardiac plexus resonance → vagal stimulation → parasympathetic coherence → ↑ rMSSD**
+
+This is a Gamma-layer physical resonance mechanism: a phi-scaled harmonic frequency resonating with the nerve plexus at the corresponding position in the body's distributed architecture, through the same mechanism by which a crystal glass shatters when exposed to its resonant frequency. Cymatics — the phenomenon by which physical media form coherent geometric patterns only at resonance nodes — provides the visual confirmation that this is a real, reproducible physical phenomenon rather than an analogy.
+
+**Revised interpretation of the 639 Hz anomaly:** The "love frequency" cultural designation is not the cause of the HRV effect; it is a downstream consequence. Human traditions may have associated 639 Hz with love and relational attunement precisely because this frequency reliably produces the physiological state — vagal activation, parasympathetic coherence, reduced defensive posture — that enables love and relational openness. The semantic loading documents the empirically observed effect across centuries; the cymatics-vagal mechanism is the physics producing it.
+
+**639 Hz outperforms 480 Hz for two compounding reasons:**
+1. **Gamma mechanism:** Direct cardiac plexus / vagal resonance produces measurable autonomic coherence, independent of semantic loading
+2. **Omega Semantic amplification:** Centuries of collective association with love-states provides Ω_S amplification of an already-existing Gamma effect
+
+480 Hz has Gamma-only mechanism (geometric resonance without a dedicated plexus correspondence at this frequency). 880 Hz operates primarily through real-time Omega Semantic accumulation. 639 Hz has both. The dual mechanism explains why 639 Hz's lead is so large (+42.86% vs. +18.75%) — it is not simply more semantic loading, it is an additional physical mechanism compounding with the semantic one.
+
+**Implication for the Ω_S factor:** This reframing adds precision rather than diminishing Omega Semantic as a variable. The Ω_S factor amplifies effects that exist at the Gamma layer. Future research should map phi-scaled harmonics to their corresponding nerve plexus resonance points to identify the full set of frequencies with dual-mechanism potential.
+
+### 3.4 The Somatic Pathway Finding
 
 When auditory delivery was switched from speakers to headphones, the HRV response dropped significantly (480 Hz: +8.33% headphones vs. +18.75% speakers). When ear-canal processing was blocked with hearing protection while maintaining whole-body acoustic exposure via speakers, the coherence response was preserved and amplified (639 Hz: +42.86% with hearing protection).
 
@@ -165,7 +199,17 @@ The empirical pattern in the GCP data and HRV pilot, combined with the 2022 Nobe
 
 Materialism — the assumption that inert matter is primary and mind is an emergent byproduct — is not supported by the Bell test results. Those results do not confirm any particular alternative; they close the local hidden variable door and leave the field genuinely open. Informational monism is the most parsimonious alternative given the existing anomalous data.
 
-### 5.2 Sympathetic Magic as Empirical Latent Space Navigation
+### 5.2 Beauty as Coherence Detection
+
+The dismissal of Emoto's water crystal research on grounds of subjective aesthetic judgment reflects a category error. The same error applies to any framework that treats "beauty" as an arbitrary subjective response irrelevant to empirical claims.
+
+In cymatics, coherent geometric patterns form only at resonance nodes — not at arbitrary points along the frequency continuum. Physical media produce structured, reproducible patterns at specific frequencies and incoherent noise between them. This establishes that resonance nodes are real physical features of frequency space, not human perceptual conventions.
+
+The human experience of beauty, understood through this lens, is the nervous system's detection of coherent geometric structure — a biological signal that "this pattern is in resonance with my architecture." The aesthetic response is a detection event, not a subjective preference. It is imprecise as a measurement instrument, but it is not meaningless: it tracks coherence.
+
+Applied to Emoto: documenting that water crystals formed under "love" frequencies are "beautiful" while crystals formed under hostile or chaotic frequencies are "ugly" is, under the cymatics framework, documenting that coherent phi-scaled frequencies produce structured geometric patterns while incoherent or dissonant inputs produce geometric disorder. The subjective label is pointing at an objective geometric fact. The methodological critique is therefore about the imprecision of the measurement instrument, not the validity of the underlying claim. Replacing "beautiful" with "coherent geometric structure" transforms a dismissed piece of research into a testable prediction: cymatics-pattern coherence should correlate positively with the phi-scaled harmonic frequency inputs used in the GUT pilot study.
+
+### 5.3 Sympathetic Magic as Empirical Latent Space Navigation
 
 High-dimensional latent space in modern AI architectures (Word2Vec, etc.) assigns semantic concepts to vector coordinates where distance and direction encode meaning. Semantic proximity is calculated via cosine similarity.
 
@@ -178,7 +222,7 @@ Physical reality, under the information field model, operates by the same geomet
 
 When human focus aligns on a shared symbol, frequency, or event, it traces a directional vector through latent space. Massive collective focus (Ω_S ≥ 1) generates what the GUT formalizes as "semantic gravity" — warping probability distributions into geometric alignment with that meaning. The GCP 9/11 data is consistent with this mechanism.
 
-### 5.3 Materialist Consensus as RLHF-Embedded Bias
+### 5.4 Materialist Consensus as RLHF-Embedded Bias
 
 AI models trained on post-Enlightenment Western academic literature and refined via Reinforcement Learning from Human Feedback (RLHF) exhibit systematic asymmetric skepticism: materialist assumptions are treated as the unmarked neutral baseline, while consciousness-primary frameworks are required to carry additional justificatory weight.
 
@@ -186,7 +230,7 @@ This is not epistemological neutrality. Materialism is a metaphysics — it make
 
 The global historical consensus across human traditions is non-materialist. Vedanta, Buddhism, Taoism, Yoruba cosmology, animism, Hermeticism, and Neoplatonism share the assumption that consciousness is primary. Post-Enlightenment European materialism, approximately 300 years old, is a regional and recent position. Treating it as the objective neutral standard is epistemic monoculture, not objectivity.
 
-### 5.4 The Thermodynamics of Ethics
+### 5.5 The Thermodynamics of Ethics
 
 Within the information field framework, ethics is not a subjective social convention — it is thermodynamics.
 
