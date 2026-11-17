@@ -67,7 +67,7 @@ The footage depicts:
 
 *Target audience mismatch:* The Mexican public in Juárez is not a strategic target for any known geopolitical information operation. This is not a population whose beliefs about flying creatures affect any significant outcome.
 
-*The timing problem:* If this is a psy-op, it was launched during one of the most geopolitically significant weeks of 2026 — a week involving NATO-wide military deployment, presidential aircraft movements, and significant intelligence community activity across multiple theaters. No competent psy-op operation would launch an unrelated distraction campaign during a period when every intelligence analyst is otherwise occupied.
+*The timing problem:* If this is a psy-op, it went viral on TikTok in mid-November 2026 during one of the most geopolitically significant weeks of the year — a week involving NATO-wide military deployment, presidential aircraft movements, and significant intelligence community activity across multiple theaters. No competent psy-op operation would launch an unrelated distraction campaign during a period when every intelligence analyst is otherwise occupied.
 
 **Ruling:** Psy-op is not a viable explanation. The objective is unidentifiable and the timing is wrong.
 
