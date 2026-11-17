@@ -112,7 +112,7 @@ Einstein-Rosen bridges (wormholes) are permitted solutions to Einstein's field e
 
 If traversable wormholes exist at Skinwalker Ranch, the physics that permits them is not geographically exclusive. Other locations with appropriate conditions could host similar phenomena. The Sierra Madre Occidental range creates significant terrain complexity in northern Mexico. Ciudad Juárez sits at a geographic and cultural border zone.
 
-Pterosaurs went extinct at the K-Pg boundary approximately 66 million years ago. If a wormhole connected to the Cretaceous period were to open and close intermittently, pterosaurs passing through would appear in modern airspace. They would not be adapted to the current atmosphere, explaining why sightings are brief and creatures appear to depart. They would have no cultural referent in Mexican tradition — explaining why witnesses are genuinely confused rather than overlaying a familiar framework.
+Pterosaurs went extinct at the K-Pg boundary approximately 66 million years ago. The locals would have no cultural referent in Mexican tradition — explaining why witnesses are genuinely confused rather than overlaying a familiar framework.
 
 **The timing discrepancy:** The Skinwalker fauna (dire wolf, ~9,500 years ago) and the Mexican fauna (pterosaurs, ~66 million years ago) represent vastly different temporal displacements. This suggests either multiple independent wormholes connecting to different time periods, a single wormhole with fluctuating temporal displacement, or unrelated mechanisms producing similar observable phenomena.
 
